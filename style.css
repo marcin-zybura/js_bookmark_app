@@ -1,0 +1,20 @@
+.success,
+.error {
+  color: #fff;
+  margin: 5px 0 15px 0;
+  padding: 5px;
+}
+
+.success {
+  background-color: #336600;
+}
+
+.error {
+  background-color: #cc3300;
+}
+
+.delete {
+  color: #cc3300;
+  font-weight: bold;
+  text-decoration: none;
+}
